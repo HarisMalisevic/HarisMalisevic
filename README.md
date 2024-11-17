@@ -1,4 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarisMalisevic)](https://git.io/streak-stats)
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=HarisMalisevic)](https://git.io/streak-stats)
+</div>
 
 <!--
 **HarisMalisevic/HarisMalisevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
